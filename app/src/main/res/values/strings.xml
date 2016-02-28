@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cinemaniacs</string>
+    <string name="content_provider_authority">it.returntrue.cinemaniacs.provider</string>
+    <string name="sync_provider_account_type">cinemaniacs.returntrue.it</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top rated</string>
+    <string name="favorites">Favorites</string>
+    <string name="loading_movies">Loading movies,\nplease wait</string>
+    <string name="no_available_movies">No available movies,\ncheck connection</string>
+    <string name="no_available_favorites">Start adding your favorite movies</string>
+    <string name="preference_selected_tab">selected_tab</string>
+    <string name="set_as_favorite">Set as favorite</string>
+    <string name="removed_from_favorites">Removed from favorites</string>
+    <string name="undo">Undo</string>
+    <string name="shared_image_transition">shared_image_transition</string>
+    <string name="overview">Overview</string>
+    <string name="videos">Videos</string>
+    <string name="reviews">Reviews</string>
+    <string name="action_share">Share</string>
+    <string name="preference_is_first_sync_completed">is_first_sync_completed</string>
+</resources>
